@@ -15,8 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React TEST-9999-test-branch-1
-          Introducing testbranch1 changes
+
+          Learn React
+          The correct changes fixing the bug
+
         </a>
       </header>
     </div>
